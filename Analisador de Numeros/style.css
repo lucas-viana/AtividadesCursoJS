@@ -1,0 +1,24 @@
+body{
+    background-color: blanchedalmond;
+    justify-items: center;
+}
+
+.conteiner{
+    border-radius: 10px;
+    width: 300px;
+    height: 300px;
+    background-color: white;
+    padding: 10px;
+    border: 1px solid black;
+}
+.conteiner p{
+    margin: 0px;
+    display: flex;
+}
+#boxNumber{
+    width: 150px;
+}
+#finalizar{
+    display: flexbox;
+    margin-left: 38%;
+}
